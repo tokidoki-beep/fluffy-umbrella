@@ -1,3 +1,5 @@
+require 'rake'
+
 task default: %w[apples]
 
 task :apples do
